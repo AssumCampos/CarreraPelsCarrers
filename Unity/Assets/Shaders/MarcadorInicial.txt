@@ -1,0 +1,22 @@
+MARCADORES PEQUEÑO 1-20 MEDIANO 21-40 GRANDE 41-60
+Nico
+92
+Neus
+96
+Martín
+99
+Rafa
+101
+Andrea
+112
+Álvaro
+121
+Cristo
+135
+Hugo
+140
+Adri
+152
+Aroa
+158
+

@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: cec81b48ee603594e896ad8c050cf7d3
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5882895342356834288
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Clapping|AlienArmature|Alien_
+  - first:
+      74: 1396951938788587839
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Death|AlienArmature|Alien_Dea
+  - first:
+      74: 7989208186831632711
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_IdleHold|AlienArmature|Alien_
+  - first:
+      74: -1019693618127013438
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Idle|AlienArmature|Alien_Idle
+  - first:
+      74: -7448183434996857000
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Jump|AlienArmature|Alien_Jump
+  - first:
+      74: 3848978303903534614
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Punch|AlienArmature|Alien_Pun
+  - first:
+      74: -3144939802965345320
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_RunHold|AlienArmature|Alien_R
+  - first:
+      74: 4244427617609408606
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_RunningJump|AlienArmature|Ali
+  - first:
+      74: -5910407070019583725
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Run|AlienArmature|Alien_Run
+  - first:
+      74: 6930318080373304899
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Sitting|AlienArmature|Alien_S
+  - first:
+      74: 8233944431122581355
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Standing|AlienArmature|Alien_
+  - first:
+      74: 1994169918606838941
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Swimming|AlienArmature|Alien_
+  - first:
+      74: -4036391985845161879
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_SwordSlash|AlienArmature|Alie
+  - first:
+      74: -3944077075119897471
+    second: AlienArmature|AlienArmature|AlienArmature|Alien_Walk|AlienArmature|Alien_Walk
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

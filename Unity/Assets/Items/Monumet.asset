@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99bedda6392fa194eb7a9b97e86d7cfc, type: 3}
+  m_Name: Monumet
+  m_EditorClassIdentifier: 
+  id: 1
+  type: 0
+  icon: {fileID: 21300000, guid: bb00dcbc0f8b91e438f859b2f17cde0f, type: 3}
+  value: 1
+  sound: {fileID: 8300000, guid: 40a63c5ff8cb11e48ab53709534aa52e, type: 3}
