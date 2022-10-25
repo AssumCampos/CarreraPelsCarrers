@@ -1,12 +1,12 @@
 # Carrera pels carrers
-Bienvenidos a un videojuego creado en Unity con el lenguaje de programación de C#. Todo empezó en la asignatura de Videojuegos de la carrera de Ingeniería Multimedía y ahora sigue siendo uno de nuestros pasatiempos favoritos.
+Welcome to a videogame created in Unity with the C# programming language. It all started in the Video Game course of the Multimedia Engineering career and now it is still one of our favorite hobbies.
 
 
 ## Getting Start 🚀
 
-Para jugar solo necesitas ejectutar el "ejecutable/Carrera Pels Carrers.exe".
+For play, just need to execute: "ejecutable/Carrera Pels Carrers.exe".
 
-En cualquier otro caso, instalar Unity.
+If you want to watch the project, you have to install Unity 2020.3.19f1 version.
 
 
 ## Authors ✒️
