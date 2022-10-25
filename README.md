@@ -4,7 +4,7 @@ Welcome to a videogame created in Unity with the C# programming language. It all
 
 ## Getting Start 🚀
 
-For play, just need to execute: "ejecutable/Carrera Pels Carrers.exe".
+For play, just need to execute: "ejecutable/Carrera Pels Carrers_Data/Carrera Pels Carrers.exe".
 
 If you want to watch the project, you have to install Unity 2020.3.19f1 version.
 
