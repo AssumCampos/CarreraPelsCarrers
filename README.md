@@ -22,3 +22,4 @@ Portfolio: http://assumcampos.space/
 
 
 * **Nicolás Aranda** - [nicarandar](https://github.com/nicarandar)
+Email: narandarobayna@gmail.com
