@@ -18,7 +18,9 @@ Email: assumcampos@gmail.com
 Portfolio: http://assumcampos.space/
 
 
-* **Emilio Cano** - [Emilio Cano Núñez](https://github.com/EmixVorteX15)
+* **Emilio Cano** - [Emilio Cano Núñez](https://github.com/EmixVorteX15) 
+Email: emixvortexgames@gmail.com 
+Portfolio: emixvortex15.github.io
 
 
 * **Nicolás Aranda** - [nicarandar](https://github.com/nicarandar)
